@@ -5,7 +5,7 @@ Print sum of integers from index l to r(l,r included)
 1<=a[i]<=10^9
 1<=l,r<=N
 */
-
+// Check
 #include<bits/stdc++.h>
 using namespace std;
 const int N = 1e5+10;
